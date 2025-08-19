@@ -1,0 +1,6 @@
+input reg1 
+input reg2
+add reg1 reg2
+bumpm reg1
+jumpnz reg1 4
+output reg2
