@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/game.dir/src/main.cpp.o CMakeFiles/game.dir/src/loaders/LevelLoader.cpp.o CMakeFiles/game.dir/src/loaders/SolutionLoader.cpp.o CMakeFiles/game.dir/src/simul/Simulator.cpp.o -o game 
